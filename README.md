@@ -1,4 +1,4 @@
-# **GPT Architecture**
+# **Implementation of GPT Architecture**
 
 
 ![alt text](img/demo.gif)
